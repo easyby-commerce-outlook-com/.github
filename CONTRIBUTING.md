@@ -1,4 +1,3 @@
-[CONTRIBUTING.md](https://github.com/user-attachments/files/34171075/CONTRIBUTING.md)
 # Werkafspraken & bijdragen
 
 > **Wat is dit?** De afspraken over hoe we in deze organisatie werken: van repo-naam tot commit-bericht en pull request.
